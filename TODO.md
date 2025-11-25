@@ -8,7 +8,9 @@
 - Add Power BI/Tableau instances.
 - Add another SQL project.
 
-## IMDB SQL Project
+## SQL Projects
+
+### IMDB Movies Project
 
 - Add screenshots of results to README.
 - Update README content.
