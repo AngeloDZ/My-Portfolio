@@ -14,6 +14,18 @@
 
 - Add screenshots of results to README.
 - Update README content.
+
 ## Excel Projects
+
 ## Python Projects
+
+### Flatlands Project
+
+- Add README.
+- Clean code.
+
+### Equidistant Line Project
+
+- Add README.
+
 ## SQL Projects
