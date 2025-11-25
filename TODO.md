@@ -14,3 +14,6 @@
 
 - Add screenshots of results to README.
 - Update README content.
+## Excel Projects
+## Python Projects
+## SQL Projects
