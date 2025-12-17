@@ -8,21 +8,21 @@
 - Add Power BI/Tableau instances.
 - Add another SQL project.
 
-## SQL Projects
+## [SQL Projects](https://github.com/AngeloDZ/SQL-Portfolio-Projects)
 
 ### IMDB Movies Project
 
 - Add screenshots of results to README.
 - Update README content.
 
-## Excel Projects
+## [Excel Projects](https://github.com/AngeloDZ/Excel-Portfolio-Projects)
 
 ### Superstore
 
 - Create dashboard.
 - Create pivot table(s).
 
-## Python Projects
+## [Python Projects](https://github.com/AngeloDZ/Python-Portfolio-Projects)
 
 ### Flatlands Project
 
@@ -35,4 +35,4 @@
 - Add README.
   - Add pictures/screenshots.
 
-## SQL Projects
+## [Power BI Projects](https://github.com/AngeloDZ/Power-BI-Portfolio-Projects)
