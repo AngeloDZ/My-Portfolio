@@ -7,6 +7,7 @@
 - Add a Python based project.
 - Add Power BI/Tableau instances.
 - Add another SQL project.
+- Add certificates.
 
 ## [SQL Projects](https://github.com/AngeloDZ/SQL-Portfolio-Projects)
 
