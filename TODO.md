@@ -17,15 +17,22 @@
 
 ## Excel Projects
 
+### Superstore
+
+- Create dashboard.
+- Create pivot table(s).
+
 ## Python Projects
 
 ### Flatlands Project
 
 - Add README.
+  - Add pictures/screenshots.
 - Clean code.
 
 ### Equidistant Line Project
 
 - Add README.
-
+  - Add pictures/screenshots.
+  - 
 ## SQL Projects
