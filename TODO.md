@@ -34,5 +34,5 @@
 
 - Add README.
   - Add pictures/screenshots.
-  - 
+
 ## SQL Projects
