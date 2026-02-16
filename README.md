@@ -13,9 +13,9 @@ Hello and welcome! This is a compilation of the projects I have completed so far
 ## Excel
 
 ## SQL
-| Link | Summary |
+| Project | Summary |
 | --- | --- |
-| 🎬 [IMDB Top 250](https://github.com/AngeloDZ/SQL-Portfolio-Projects/blob/main/IMDB%20Top%20250%20SQL%20Analysis/README.md) | Analysis of the top 250 rated films by IMBD |
+| 🎬 [IMDB Top 250 Analysis](https://github.com/AngeloDZ/SQL-Portfolio-Projects/blob/main/IMDB%20Top%20250%20SQL%20Analysis/README.md) | Analysis of the top 250 rated films by IMBD |
 
 ## Python
 
