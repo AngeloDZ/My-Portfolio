@@ -12,6 +12,10 @@ Hello and welcome! This is a compilation of the projects I have completed so far
   
 ## Excel
 
+| Project | Summary | Skills Demonstrated |
+| --- | --- | --- |
+| 🛒 [Superstore Profitability Analysis](https://github.com/AngeloDZ/Excel-Portfolio-Projects/blob/main/Superstore/README.md) | Analysis of the Superstore Dataset, identifying key drivers for profit gains and losses by Category, Region and Segment and providing recommendations based on insights. | Data Analysis, Reporting, Data Visualisation, Pivot Tables, Data Cleaning |
+
 ## SQL
 
 | Project | Summary |
